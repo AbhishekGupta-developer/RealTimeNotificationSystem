@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "https://localhost:8080/send-test-message",
+			"name": "Send test message",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -23,7 +23,7 @@
 						}
 					}
 				},
-				"url": "https://localhost:8080/send-test-message"
+				"url": "https://localhost/send-test-message"
 			},
 			"response": []
 		}
